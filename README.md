@@ -154,6 +154,10 @@ Publish the website in the given URL.
 
 ![Screenshot (112)](https://github.com/user-attachments/assets/7add3ce9-b2a4-4f94-b968-55e8b56850d5)
 
+![Screenshot (119)](https://github.com/user-attachments/assets/9ea3fef5-fd73-4a84-8eca-286fea49a704)
+
+![Screenshot (120)](https://github.com/user-attachments/assets/df6f8ff1-b0dd-4b92-a7a6-25f6efd9c354)
+
 
 
 # RESULT:
